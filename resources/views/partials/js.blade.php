@@ -1,0 +1,11 @@
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/perfect-scrollbar.jquery.min.js"></script>
+<script src="js/chart.min.js"></script>
+<script src="js/echart.min.js"></script>
+<script src="js/nice-select.js"></script>
+<script src="js/jquery.sparkline.min.js"></script>
+<script src="js/custom2.js"></script>
+<script src="js/flatweather.min.js"></script>
+<script src="js/html5lightbox.js"></script>
+<script src="js/custom.js"></script><!-- scripts -->
